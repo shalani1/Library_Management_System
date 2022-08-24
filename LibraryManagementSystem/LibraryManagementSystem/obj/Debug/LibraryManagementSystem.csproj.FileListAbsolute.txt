@@ -1,0 +1,84 @@
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login.resources
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Category.resources
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Main.resources
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BookIssuing.resources
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books.resources
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Payments.resources
+F:\Semester-2\Practicals\Visual Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Member.resources
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BookIssuing.resources
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books.resources
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Category.resources
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login.resources
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Main.resources
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Payments.resources
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Member.resources
+D:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\NEW(Shalani Akka's)-20201220-11.28\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BookIssuing.resources
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books.resources
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Category.resources
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login.resources
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Main.resources
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Payments.resources
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Member.resources
+E:\UOVT\IT Dgree\Year 1\Semester 2\Visual Studio\Assignmnets\Group project (Assignmnet 1)\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BookIssuing.resources
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books.resources
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Category.resources
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login.resources
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Main.resources
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Payments.resources
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Member.resources
+C:\Users\User\Documents\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BookIssuing.resources
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books.resources
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Category.resources
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login.resources
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Main.resources
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Payments.resources
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Member.resources
+C:\Users\User\Desktop\project eka methana\Library System (Final)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\New folder (13)\final\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\User\Desktop\New folder (13)\final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\User\Desktop\New folder (13)\final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\User\Desktop\z\final\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\User\Desktop\z\final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\User\Desktop\z\final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\Z-UNIVOTECH FOLDERS\New folder (4)\library\z\final\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Z-UNIVOTECH FOLDERS\New folder (4)\library\z\final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Z-UNIVOTECH FOLDERS\New folder (4)\library\z\final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
